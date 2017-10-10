@@ -1,4 +1,4 @@
-package com.paouke.code.practice.leetcode.array.reshapeTheMatrix;
+package com.paouke.code.practice.leetcode.array.T566;
 
 import java.util.Arrays;
 

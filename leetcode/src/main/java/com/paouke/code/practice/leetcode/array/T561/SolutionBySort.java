@@ -1,4 +1,4 @@
-package com.paouke.code.practice.leetcode.array.arrayPartitionI;
+package com.paouke.code.practice.leetcode.array.T561;
 
 import java.util.Arrays;
 

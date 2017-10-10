@@ -1,4 +1,4 @@
-package com.paouke.code.practice.leetcode.array.maxConsecutiveOnes;
+package com.paouke.code.practice.leetcode.array.T485;
 
 public class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {

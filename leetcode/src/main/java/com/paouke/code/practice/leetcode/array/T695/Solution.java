@@ -1,4 +1,4 @@
-package com.paouke.code.practice.leetcode.array.maxAreaOfIsland;
+package com.paouke.code.practice.leetcode.array.T695;
 
 public class Solution {
     int[][] grid;
